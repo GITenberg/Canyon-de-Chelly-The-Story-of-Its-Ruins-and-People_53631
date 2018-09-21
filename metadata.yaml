@@ -1,5 +1,8 @@
 _repo: Canyon-de-Chelly-The-Story-of-Its-Ruins-and-People_53631
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53631-h/images/cover.jpg
 creator:
   author:
     agent_name: Bradley, Zorro A.
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47463'
     url: http://www.gutenberg.org/2009/agents/47463
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53631#Canyon-de-Chelly-The-Story-of-Its-Ruins-and-People
 gutenberg_issued: '2016-11-29'
 gutenberg_type: Text
 identifiers:
