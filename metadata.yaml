@@ -1,0 +1,27 @@
+_repo: Canyon-de-Chelly-The-Story-of-Its-Ruins-and-People_53631
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bradley, Zorro A.
+    birthdate: 1925
+    deathdate: 2010
+    gutenberg_agent_id: '47463'
+    url: http://www.gutenberg.org/2009/agents/47463
+description: ''
+gutenberg_issued: '2016-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53631'
+  lccn: '73600078'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canyon de Chelly National Monument (Ariz.)'
+- !lcsh 'Navajo Indians'
+- !lcc 'E011'
+- !lcsh 'Pueblo Indians -- Antiquities'
+- GITenberg
+title: 'Canyon de Chelly: The Story of Its Ruins and People'
+url: http://www.gutenberg.org/ebooks/53631
